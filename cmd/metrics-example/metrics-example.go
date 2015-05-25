@@ -7,7 +7,7 @@ import (
 	"log"
 	"math/rand"
 	"os"
-	// "syslog"
+	// "log/syslog"
 	"time"
 )
 
